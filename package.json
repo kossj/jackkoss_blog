@@ -14,8 +14,20 @@
     "@astrojs/rss": "^4.0.11",
     "@astrojs/sitemap": "^3.2.1",
     "@playform/compress": "^0.1.7",
-    "astro": "^5.1.9",
+    "astro": "^5.7.12",
     "astro-embed": "^0.9.0",
     "astro-og-canvas": "^0.5.5"
-  }
+  },
+  "description": "A clean and modern, eco-friendly personal website theme built with [Astro](https://www.astro.build], using fluid type and grid sizing for smooth size transitions.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kossj/jackkoss_blog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/kossj/jackkoss_blog/issues"
+  },
+  "homepage": "https://github.com/kossj/jackkoss_blog#readme"
 }

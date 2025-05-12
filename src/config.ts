@@ -8,9 +8,9 @@ export const PATHS = {
 } as const;
 
 export const CONFIG = {
-  site_title: "Jane Doe | Graphic Designer",
-  site_url: "https://www.yoursite.dev",
-  author: "Jane Doe",
-  email: "your@email.com",
-  description: "Welcome to my blog!",
+  site_title: "Jack Koss | BSc Electrical Engineering",
+  site_url: "https://jackkoss.org",
+  author: "Jack Koss",
+  email: "jack@jackkoss.org",
+  description: "Hi! Glad you're here!",
 } as const;

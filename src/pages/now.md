@@ -8,30 +8,19 @@ description: "What I'm focusing on now"
 
 ---
 
-**Last Updated**: January 2024
+**Last Updated**: May 2025
 
-## Professional Focus
+## China with friends!
 
-- Developing a comprehensive design system for a sustainable tech startup
-- Writing a series of design process workshops for local creative professionals
-- Consulting on brand identity for two emerging social impact organizations
+Later in May, I'm headed to China with three of my friends! We'll be touring some cool companies and going camping! Beijing, Shanghai, and BYD are all on the list. I've been trying to learn _some_ Mandarin, but I have a feeling Baidu Translate is going to become a good friend of mine.
 
-## Learning & Growth
+Look out for a post!
 
-- Diving deep into motion design and advanced animation techniques
-- Taking an online course on inclusive design principles
-- Exploring generative AI's impact on creative workflows
+## Headed to College!
 
-## Personal Projects
+- Finishing up high school and looking for some cool clubs for next year.
+- Meeting my roommate!
+- Learning my [yells](https://www.aggienetwork.com/traditionsthroughtime/yells.aspx) and [wildcats](https://thebatt.com/traditions/whats-your-wildcat/)!
 
-- Designing a limited-edition art print collection
-- Building a small home studio for design and illustration work
-- Developing a design mentorship program for early-career creatives
-
-## Life & Wellness
-
-- Practicing daily morning sketching
-- Training for a local half-marathon
-- Experimenting with plant-based cooking
 
 _Inspired by Derek Sivers' [nownownow](https://nownownow.com) project_
